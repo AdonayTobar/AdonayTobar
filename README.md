@@ -1,7 +1,7 @@
 ### Hola 👋!
 Bienvenido a mi perfil.
 
-## Soy Frontend Developer.
+## I'm Frontend Developer.
 
 Nunca parar de aprender.
 
